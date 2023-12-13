@@ -2,7 +2,7 @@
 
 This repository contains the files for ALX **simple_shell** Project. It can be compiled using GCC and will execute a simple shell that can be used for some basic tasks and programs most commonly found in the /bin/ folder.
 
-# Requirements 
+# Requirements
 
 ### Authorized functions and macros:
 - access (man 2 access)
