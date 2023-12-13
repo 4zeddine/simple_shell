@@ -66,7 +66,7 @@ void init_data(shell_t *data, char **argv)
 
 /**
  * free_data - frees the struct fields
- * @dat: input data
+ * @data: input data
  * @bool: condition for freeing all fields
  */
 void free_data(shell_t *data, int bool)
